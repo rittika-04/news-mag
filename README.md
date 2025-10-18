@@ -1,16 +1,67 @@
-<<<<<<< HEAD
-# React + Vite
+# NEWS APP
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Table of Contents
+1. [Project Overview](#project-overview)
+2. [Features](#features)
+3. [Technologies Used](#technologies-used)
+4. [Installation](#installation)
+5. [Usage](#usage)
+6. [Contributing](#contributing)
+7. [Known Issues](#known-issues)
+8. [License](#license)
+9. [Contact](#contact)
 
-Currently, two official plugins are available:
+## Project Overview
+NEWS APP is a dynamic web application that delivers the latest news updates categorized by topics such as technology, sports, politics, and more. It provides a user-friendly interface for browsing, searching, and reading news articles in real-time.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- Browse news by category and source
+- Keyword search functionality
+- Responsive design optimized for desktop and mobile
+- User authentication (if applicable)
+- Favorites and bookmarking of articles (if applicable)
 
-## Expanding the ESLint configuration
+## Technologies Used
+- React (version X.X)
+- Node.js/Express (if backend included)
+- News API (mention specific APIs used)
+- CSS/Styled Components
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# news-mag
->>>>>>> 72fc23358c2ec953b769c0b988b803cbbbff4ca2
+## Installation
+1. Clone the repository:
+git clone https://github.com/rittika-04/news-app.git
+
+text
+2. Navigate to the project directory:
+cd news-app
+
+text
+3. Install dependencies:
+npm install
+
+text
+4. Start the development server:
+npm start
+
+text
+
+## Usage
+After installation, open your browser and navigate to `http://localhost:3000` to use the app. Use the sidebar or menu to browse news categories, search for specific topics, and read detailed articles.
+
+## Contributing
+Contributions are welcome! To contribute:
+- Fork the repository
+- Create a new branch (`git checkout -b feature-name`)
+- Make your changes and commit (`git commit -m 'Add some feature'`)
+- Push to the branch (`git push origin feature-name`)
+- Open a Pull Request for review
+
+## Known Issues
+- Mention any bugs or limitations here
+- Provide workarounds if available
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Contact
+For questions or feedback, please contact [shaw.rittika15@gmail.com].
